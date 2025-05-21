@@ -1,0 +1,16 @@
+admin hello admin
+retesh 1234 patient
+marcus colgate doctor
+shyaam password patient
+anshul helloworld patient
+mukhyansh 12345 patient
+priya cat doctor
+victor doesntlose doctor
+rohan doctor doctor
+
+gaurav champu patient
+rahul hello doctor
+hello world doctor
+hello world doctor
+world hello doctor
+yo there doctor
