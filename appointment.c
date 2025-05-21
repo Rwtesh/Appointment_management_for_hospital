@@ -18,7 +18,7 @@ again:
     printf("Enter doctor's name: ");
     scanf("%s", name);
 
-    FILE *str = fopen("doctors.txt", "read");
+    FILE *str = fopen("doctors.txt", "r");
     while (fscanf(str, "%s", check) != EOF)
     {
         if (compare(name, check) == 0)
